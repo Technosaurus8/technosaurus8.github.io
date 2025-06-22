@@ -8,20 +8,28 @@
 
 
 <url>
-  <loc>https://technosaurus8.github.io/MagicGamepad/</loc>
-  <lastmod>2024-08-06T13:23:58+00:00</lastmod>
+  <loc>https://technosaurus8.github.io/</loc>
+  <lastmod>2025-05-27T15:42:19+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://technosaurus8.github.io/MagicGamepad/help.html</loc>
-  <lastmod>2024-08-06T13:23:58+00:00</lastmod>
+  <loc>https://technosaurus8.github.io/MagicGamepad/</loc>
+  <lastmod>2025-06-21T15:00:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://technosaurus8.github.io/MagicGamepad/aboutus.html</loc>
-  <lastmod>2024-08-06T13:23:58+00:00</lastmod>
+  <loc>https://technosaurus8.github.io/WLANdrop/</loc>
+  <lastmod>2025-06-21T14:42:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
-
+<url>
+  <loc>https://technosaurus8.github.io/MagicGamepad/help.html</loc>
+  <lastmod>2025-06-21T15:00:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://technosaurus8.github.io/WLANdrop/help.html</loc>
+  <lastmod>2025-06-21T14:42:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 </urlset>
